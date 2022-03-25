@@ -1,0 +1,22 @@
+{
+  "name": "chain",
+  "version": "1.0.0",
+  "description": "A JS-made blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahegan/JS-chain.git"
+  },
+  "author": "Ahegan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahegan/JS-chain/issues"
+  },
+  "homepage": "https://github.com/Ahegan/JS-chain#readme",
+  "dependencies": {
+    "sqlite3": "^4.2.0"
+  }
+}
